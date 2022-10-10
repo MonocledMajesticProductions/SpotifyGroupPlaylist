@@ -2,7 +2,7 @@
 ## Public deprecation 
 Since creating this project 2 years ago a number of things have changed. Spotify have released their "Blend" feature which largely reduces the need for this project, whilst also altering their API permissions to only allow pre-approved accounts to authenticate with [developer projects](https://developer.spotify.com/community/news/2021/05/27/improving-the-developer-and-user-experience-for-third-party-apps/). 
 
-Similarly, Heroku have now also changed their platform offerings and free PostgreSQL as well as the free python Dyno this project was hosted upon is no longer going to be available going forwards.
+Similarly, Heroku have now also changed their platform offerings and free PostgreSQL as well as the free python Dyno this project was hosted upon are no longer going to be available going forwards.
 
 This project was developed over summer 2020, and there isn't really much use for it in 2022 other than as a comparison piece to demonstrate how far those involved have come. 
  
